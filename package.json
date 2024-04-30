@@ -1,0 +1,36 @@
+{
+  "name": "mockup_svglogomaker",
+  "version": "1.0.0",
+  "description": "svg logo maker",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L-Lainio/mockUp_svgLogoMaker.git"
+  },
+  "keywords": [
+    "svg",
+    "cli",
+    "api",
+    "node.js",
+    "npm"
+  ],
+  "author": "Lora Lainio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/L-Lainio/mockUp_svgLogoMaker/issues"
+  },
+  "homepage": "https://github.com/L-Lainio/mockUp_svgLogoMaker#readme",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "colors": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.20",
+    "shapes": "^0.4.0"
+  }
+}

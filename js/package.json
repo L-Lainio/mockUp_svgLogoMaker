@@ -1,0 +1,34 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L-Lainio/mockUp_svgLogoMaker.git"
+  },
+  "keywords": [
+    "express",
+    "framework",
+    "sinatara",
+    "web",
+    "http"
+  ],
+  "author": "Lora Lainio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/L-Lainio/mockUp_svgLogoMaker/issues"
+  },
+  "homepage": "https://github.com/L-Lainio/mockUp_svgLogoMaker#readme",
+  "dependencies": {
+    "badmath": "^1.0.1",
+    "color": "^4.2.3",
+    "express": "^4.19.2",
+    "inquirer": "^8.2.4",
+    "shapes": "^0.4.0",
+    "svg": "^0.1.0"
+  },
+  "description": ""
+}
