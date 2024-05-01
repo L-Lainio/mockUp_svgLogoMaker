@@ -1,11 +1,8 @@
 {
-  "name": "mockup_svglogomaker",
+  "name": "lib",
   "version": "1.0.0",
-  "description": "svglogomaker",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
+  "description": "SVG LogoMaker",
+  "main": "cli.js",
   "scripts": {
     "test": "npm test"
   },
@@ -16,8 +13,8 @@
   "keywords": [
     "npm",
     "test",
-    "logo",
     "repo",
+    "shapes",
     "jest"
   ],
   "author": "LLainio",
