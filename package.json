@@ -25,5 +25,10 @@
   "bugs": {
     "url": "https://github.com/L-Lainio/mockUp_svgLogoMaker/issues"
   },
-  "homepage": "https://github.com/L-Lainio/mockUp_svgLogoMaker#readme"
+  "homepage": "https://github.com/L-Lainio/mockUp_svgLogoMaker#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.4",
+    "jest": "^29.7.0"
+  }
 }
