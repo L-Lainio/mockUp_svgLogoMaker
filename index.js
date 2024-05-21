@@ -1,5 +1,3 @@
-/** @format */
-
 // Inquirer (node package manager) import
 const inquirer = require("inquirer");
 

@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "npm test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -30,5 +30,6 @@
     "colors": "^1.4.0",
     "inquirer": "^8.2.4",
     "jest": "^29.7.0"
-  }
+  },
+  "devDependencies": {}
 }
