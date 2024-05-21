@@ -35,25 +35,17 @@ This application was built as a way to allow freelance web developers to create 
 
 ## Live Screen Recording of Application Functionality
 
-<!-- https://drive.google.com/file/d/1LLAhUArgzn2YfI_or0DXp4N9ZcsTPUdZ/view -->
+https://share.zight.com/kpuZb5Qo
 
 ## Screenshots
 
 Logo Generation
 
-<!-- ![Screenshot1-week-10-challenge](https://user-images.githubusercontent.com/120127903/232142589-86370721-ab54-4ff4-af4d-46a40fbb5d5f.png)
-
-![Screenshot2-week-10-challenge](https://user-images.githubusercontent.com/120127903/232142612-728f43cb-174a-4370-9847-e3ebb10ee23b.png)
-
-![Screenshot3-week-10-challenge](https://user-images.githubusercontent.com/120127903/232144018-62741d39-3e09-492c-be82-125e38f91521.png) -->
-
 Examples of Generated Logos
 
-<!-- <img width="226" alt="Screenshot4-week-10-challenge" src="https://user-images.githubusercontent.com/120127903/232142654-9a5a9937-e831-4838-86a1-4323c7b9cc39.png">
+<img width="226" alt="Screenshot4-week-10-challenge" src="https://share.zight.com/nOu7kem6">
+<iframe src="https://share.zight.com/kpuZb5Qo?embed=true&amp;title=true&amp;branding=true" width="360" height="270" style="border:none" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowtransparency="true" allowfullscreen="true"></iframe>
 
-<img width="245" alt="Screenshot5-week-10-challenge" src="https://user-images.githubusercontent.com/120127903/232142705-29cd92d9-1c12-46ce-a81a-64893ac15a00.png">
-
-<img width="214" alt="Screenshot6-week-10-challenge" src="https://user-images.githubusercontent.com/120127903/232142727-5c9ce441-1ca7-443a-bb5f-391b3f0003cf.png"> -->
 
 ## Technologies Used
 
