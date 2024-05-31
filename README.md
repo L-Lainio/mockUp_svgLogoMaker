@@ -34,12 +34,13 @@ Week-10 Challenge
 This application was built as a way to allow freelance web developers to create simple logos for their clients and projects so that they can forego paying a graphic designer. It utilizes inquirer to prompt the user within the command line for how they would like their logo to look (ie. what text they would like their logo to display (up to 3 characters in length), the color of that text, the shape of their logo (triangle, square, or circle) and the color of that shape.) Once the user answers all prompts, then an SVG file is written using their selections to generate a logo.
 
 ## My GIF
-![](/images/Zight%20Recording%202024-5-20%20at%2011.38.07%20PM.mp4)
+![](/images/Zight%20Recording%202024-5-20%20at%2011.44.34%20PM.gif)
 
 ## My Screenshot
 ![](/images/Zight%202024-5-20%20at%2011.48.55%20PM.png)
-![](./public/assets/images/Zight%202024-5-29%20at%2010.18.10%20PM.jpeg)
-![](./public/assets/images/Zight%202024-5-29%20at%2010.28.59%20PM.jpeg)
+![](/images/logo.svg)
+![](/images/circleSVG.svg)
+![](/images/logo%20(1).svg)
 
 
 ## Technologies Used
@@ -53,7 +54,7 @@ This project is powered by Node.js v16, utilizes inquirer v8.2.4 (node package m
 
 2. Open in VS Code. If you do not have VS code you must install it.
 
-3. Using the terminal, install node.js 
+3. Using the terminal, install node.js
 
 4. Once node.js v16 is installed, in the terminal, utilize the command npm init -y to initialize and create a package.json where project files will be stored.
 
