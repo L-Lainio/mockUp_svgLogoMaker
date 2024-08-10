@@ -90,10 +90,3 @@ Have additional questions? Click the links below to reach me through my GitHub a
 
 <a href="mailto:lora.lainio.it@gmail.com">lora.lainio.it@gmail.com</a>
 
-## Questions
-
-Have additional questions? Click the links below to reach me through my GitHub account or Email address.
-
-[Link to Github](https://github.com/L-Lainio)
-
-<a href="mailto:arollainio@gmail.com">arollainio@gmail.com</a>
