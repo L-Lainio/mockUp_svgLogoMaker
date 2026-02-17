@@ -80,13 +80,7 @@ You may also need to write additional tests for handling user input, file writin
 
 NOTICE: This application is covered under the MIT License
 
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+© 2026 and Beyond
 
-## Contact
 
-Have additional questions? Click the links below to reach me through my GitHub account or Email address.
-
-[Link to Github](https://github.com/L-Lainio)
-
-<a href="mailto:lora.lainio.it@gmail.com">lora.lainio.it@gmail.com</a>
 
